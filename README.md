@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b479af3b-b3c8-44d9-be65-96c296b809a8)# Ex02 Django ORM Web Application
+## Ex02 Django ORM Web Application
 ## Date: 
 
 ## AIM
